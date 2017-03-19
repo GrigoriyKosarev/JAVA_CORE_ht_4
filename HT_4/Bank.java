@@ -1,4 +1,4 @@
-package ht_4_1;
+package HT_4;
 
 /**
  * Created by Ruslan on 06.03.2017.
@@ -88,6 +88,6 @@ public abstract class Bank {
     public abstract int getLimitOfFunding();
     public abstract int getMonthlyRate();
     public abstract int getCommission(int summ);
-    /*public double moneyPaidMonthlyForSalary();*/
+    public abstract double moneyPaidMonthlyForSalary();
 
 }

@@ -1,4 +1,4 @@
-package ht_4_1;
+package HT_4;
 
 public abstract class EUBank extends Bank{
 
