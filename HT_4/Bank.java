@@ -29,6 +29,9 @@ public abstract class Bank {
         this.totalCapital = totalCapital;
     }
 
+    public Bank() {
+    }
+
     public long getId() {
         return id;
     }
