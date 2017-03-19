@@ -1,15 +1,12 @@
 package HT_4;
 
-/**
- * Created by admin on 17.03.2017.
- */
-
-
-
 public class User {
 
-    /*Bank UserBank = new Bank() {
-
-    }*/
+    public double id;
+    public double balance;
+    public int monthsOfEmployment;
+    public String companyName;
+    public int salary;
+    public Bank bank;
 
 }
