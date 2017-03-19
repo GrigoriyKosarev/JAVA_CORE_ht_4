@@ -6,9 +6,8 @@ public class Main {
 
         //вы должны создать 6 объектов класса User (2 - USBank, 2 - EUBank, 2 - ChinaBank).
 
-        /*bankUS = new Bank();
+    /*bank1 = new Bank(11, "qweqwe", carr);*/
 
-        user11 = new User(123, 500, 5, "Niga", 900, )*/
     }
 
 }
