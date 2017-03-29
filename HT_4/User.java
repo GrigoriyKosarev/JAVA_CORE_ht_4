@@ -17,4 +17,9 @@ public class User {
         this.salary = salary;
         this.bank = bank;
     }
+
+    @Override
+    public String toString() {
+        return super.toString();
+    }
 }
